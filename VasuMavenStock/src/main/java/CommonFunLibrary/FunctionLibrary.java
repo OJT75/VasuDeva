@@ -209,5 +209,11 @@ public class FunctionLibrary
 			
 			return sdf.format(date);
 		}
+		//Sample method
+		
+		public static void vasu()
+		{
+			System.out.println("Selenium OJT Training");
+		}
 			
 }
